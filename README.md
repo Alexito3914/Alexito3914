@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Bash and Python**
 
-- 👯 I’m looking to collaborate on [Daniel Sureda, Jaime Moraleda and Rodrigo Moreno](https://github.com/Alexito3914/University-works/blob/main/Readme.md)
+- 👯 I’m looking to collaborate on proyects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alexito3914/University-works/tree/main](https://github.com/Alexito3914/University-works/tree/main)
 
