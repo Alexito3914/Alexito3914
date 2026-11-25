@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexito3914&label=Profile%20views&color=0e75b6&style=flat" alt="alexito3914" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexito3914" alt="alexito3914" /></a> </p>
 
-- 🔭 I’m currently working on [Read.me](https://github.com/Alexito3914/University-works/blob/main/Readme.md)
+- 🔭 I’m currently working on [BigData]([https://github.com/Alexito3914/University-works/blob/main/Readme.md](https://github.com/marcosgale/BigData_Proyecto))
 
 - 🌱 I’m currently learning **Java, Bash and Python**
 
