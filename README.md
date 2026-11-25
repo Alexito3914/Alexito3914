@@ -23,7 +23,7 @@ I'm open to **job opportunities, internships and collaborations** — feel free 
 - 🔭 Currently working on **[BigData Project](https://github.com/marcosgale/BigData_Proyecto)**
 - 🌱 Learning and improving in **Java, Bash and Python**
 - 👯 Looking to collaborate on interesting projects
-- 📂 My university projects are available in **[University-works](https://github.com/Alexito3914/University-works)**
+- 📂 You can find all my projects in my **[repositories](https://github.com/Alexito3914?tab=repositories)**
 
 ## 🛠️ Languages & Tools
 
