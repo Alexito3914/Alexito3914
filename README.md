@@ -39,12 +39,8 @@ I'm open to **job opportunities, internships and collaborations** — feel free 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexito3914&show_icons=true&locale=en" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexito3914&layout=compact&locale=en" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexito3914&row=1&column=6" alt="Trophies"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexito3914&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexito3914&layout=compact&locale=en&theme=github_dark&hide_border=true" alt="Top languages"/>
 </p>
 
 ---
