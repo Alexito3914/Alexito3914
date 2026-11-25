@@ -25,15 +25,29 @@ I'm open to **job opportunities, internships and collaborations** — feel free 
 - 👯 Looking to collaborate on interesting projects
 - 📂 You can find all my projects in my **[repositories](https://github.com/Alexito3914?tab=repositories)**
 
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎮 **[RoboCodes](https://github.com/Alexito3914/CodeRoblox)** · [🌐 Live site](https://robocodes.online) | Personal full-stack project: a website that gathers active codes from dozens of Roblox games in one place. Codes are collected automatically by a **Discord bot** and a **web scraper** (every 30 min), stored in **SQLite** and served through a **Node.js/Express REST API**. Deployed on **Railway**. |
+| 📊 **[BigData Project](https://github.com/marcosgale/BigData_Proyecto)** | Big Data project developed as part of my studies. |
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
 
 ## 📊 GitHub Stats
